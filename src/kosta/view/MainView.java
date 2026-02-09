@@ -5,5 +5,6 @@ public class MainView {
 		System.out.println("Test...");
 		System.out.println("수정..");
 		
+		System.out.println("메인에 수정함");
 	}
 }

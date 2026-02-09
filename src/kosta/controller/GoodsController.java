@@ -8,5 +8,6 @@ public class GoodsController {
   
   public void selectAll() {
     System.out.println("로컬에서 수정하고 있어요...");
+    System.out.println("집에 간다");
   }
 }

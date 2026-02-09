@@ -5,4 +5,6 @@ public class GoodsController {
   public void test(){
     
   }
+  public void selectAll(){
+  }
 }

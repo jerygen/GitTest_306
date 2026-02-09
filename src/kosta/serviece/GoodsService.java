@@ -15,4 +15,7 @@ public class GoodsService {
 		System.out.println("remote에서 delete 수정");
 
 	}
+	public void test() {
+		System.out.println("강의장 수정");
+	}
 }

@@ -4,4 +4,8 @@ public class CartController {
 	public void insert() {
 		
 	}
+	
+	public void test() {
+		
+	}
 }
